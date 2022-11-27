@@ -6,6 +6,8 @@
   "background": {
     "service_worker": "app.js"
   },
-
+  "icons": {
+    "48": "../icon-48.png"
+  },
   "omnibox": { "keyword": "mil" }
 }
