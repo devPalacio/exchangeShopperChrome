@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Exchange Shopper",
+  "description": "Search all military exchanges at once",
+  "version": "1.0",
+  "background": {
+    "service_worker": "app.js"
+  },
+
+  "omnibox": { "keyword": "mil" }
+}
